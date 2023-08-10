@@ -1,5 +1,5 @@
 # data
-This workshop uses publicly available data for E2/S$_N$2 reaction barrier heights, as originally described in
+This workshop uses publicly available data for E2/SN2 reaction barrier heights, as originally described in
 
 # Reactions
 
