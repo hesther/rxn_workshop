@@ -1,7 +1,9 @@
 # data
-This workshop uses publicly available data for E2/SN2 reaction barrier heights, as originally described in
+This folder contains all data necessary to follow the workshop.
 
 # Reactions
+
+This workshop uses publicly available data for E2/SN2 reaction barrier heights, as originally described in
 
 ```G. F. von Rudorff, S. N. Heinen, M. Bragato, O. A. von Lilienfeld. Thousands of Reactants and Transition States for Competing E2 and S2 Reactions. Mach. Learn.: Sci. Technol. 2020, 1, 045026```
 
